@@ -1,1 +1,1 @@
-# store_management
+# Store Management with e-commerce
